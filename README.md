@@ -4,7 +4,7 @@ This is a solo-developed virtual reality training environment built in Unity. It
 
 ## 🎮 Features
 
-- 🗡️ Sword, 🔫 pistol, 🛡️ shield, and 🏹 bow object interactions
+- 🗡️ Sword, 🔫 pistol, and 🛡️ shield
 - 🎯 Dummies that can be activated by a pressure plate
 - 🚪 Interactive door with knob-based opening mechanism
 - 🎛️ Menu with snap or continuous turn options
